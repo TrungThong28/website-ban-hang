@@ -1,0 +1,6 @@
+"1"	"Hennessy"	"hennessy"	"uploads/brands/1611934938_hennessy.png"	"1"	"1"	"29/1/2021 15:42:18"	"29/1/2021 16:03:06"
+"2"	"Johnnie Walker"	"johnnie-walker"	"uploads/brands/1611935158_JWalker.png"	"1"	"1"	"29/1/2021 15:45:58"	"29/1/2021 15:45:58"
+"3"	"Chivas"	"chivas"	"uploads/brands/1611935180_chivasbrandlogo.png"	"1"	"1"	"29/1/2021 15:46:20"	"29/1/2021 15:46:20"
+"4"	"Remy Martin"	"remy-martin"	"uploads/brands/1611935203_Martin_cognac.png"	"1"	"1"	"29/1/2021 15:46:43"	"29/1/2021 15:46:43"
+"5"	"Tiger Beer"	"tiger-beer"	"uploads/brands/1611935222_Tiger-Beer.png"	"1"	"1"	"29/1/2021 15:47:02"	"29/1/2021 15:47:02"
+"6"	"Bia Sapporo"	"bia-sapporo"	"uploads/brands/1612106668_Sapporo.jpg"	"1"	"1"	"31/1/2021 15:24:28"	"31/1/2021 15:24:28"
